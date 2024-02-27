@@ -1,7 +1,7 @@
-### Resume
+# Resume
 
-# Name: Alex Huynh
+## Name: Alex Huynh
 
-# Major: Computer Science
+## Major: Computer Science
 
-# Education: High School Graduate, Current 1st Year Student at Northeastern University
+## Education: High School Graduate, Current 1st Year Student at Northeastern University
